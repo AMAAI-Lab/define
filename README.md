@@ -1,4 +1,4 @@
-# AccentBridge
+# DEFINE
 
 Accent control for zero-shot TTS: a LoRA adapter on a frozen F5-TTS v1 Base, conditioned on an accent label or a few accent exemplar clips.
 
