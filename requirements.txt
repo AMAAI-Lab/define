@@ -1,0 +1,17 @@
+f5-tts==1.1.22
+peft
+transformers
+torchdiffeq
+huggingface_hub
+pyyaml
+soundfile>=0.13
+librosa>=0.10
+soxr
+pyloudnorm
+pandas
+pyarrow
+numpy
+scikit-learn
+faster-whisper>=1.1
+speechbrain>=1.0
+jiwer

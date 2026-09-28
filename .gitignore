@@ -1,0 +1,7 @@
+__pycache__/
+data/
+ckpt/
+weights/
+third_party/
+*.wav
+examples/
